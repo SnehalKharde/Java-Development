@@ -1,0 +1,30 @@
+@charset "ISO-8859-1";
+td {
+      padding: 0;
+      vertical-align: middle;
+    }
+
+table{
+	background-color:#e6f9ff	;
+	position:absolute;
+  margin:0px 10px 100px 200px;
+  text-align: center;
+  font-size: 20px;
+  color:black;
+  text-bold:true;
+  width:75%;
+ 
+  }
+
+input[type="text"] ,
+select{
+   border-style: outset;
+    width: 300px;
+    height:29px;
+}
+
+input[type="button"]{
+	width:300px;
+	height:32px;
+	background-color:#4d99b3;
+}
